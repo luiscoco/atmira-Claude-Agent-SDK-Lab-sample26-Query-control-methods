@@ -133,3 +133,4 @@ Costs: about $0.45 for all the probes and test runs.
 | `Tab1-query().md` | Adds Concept 26 to the table |
 | `Tab26-Query-control-methods.md` | Explanation of the concept |
 | `Build-steps.md` | This file |
+| `readme.md` | Same content as `Tab26-Query-control-methods.md` |
